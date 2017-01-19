@@ -48,7 +48,7 @@ or the following syntax if you have angle bracket components.
 
 or the following syntax if you have angle bracket components.
 ```html
-<pick-a-time date={{date}} on-selected={{action (mut date)}} placeholder="Pick a time" options={{extraPickadateOptions}}>
+<pick-a-time date={{date}} on-selected={{action (mut date)}} placeholder="Pick a time" options={{extraPickadateOptions}} />
 ```
 
 #### Parameters
